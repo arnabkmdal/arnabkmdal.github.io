@@ -15,10 +15,10 @@ main:
     url: /research/    
 
   - title: "CV"
-    url: /cv/    
+    url: /cvarnab/    
         
   - title: "Blogs"
-    url: /year-archive/
+    url: /blog/
     
   - title: "Travel"
     url: /travel/
