@@ -6,26 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my website! I am a 4th year BPharm Student at the School of Pharmacy, BRAC University, Bangladesh with a strong research interest in Medicinal Chemistry, Cheminformatics and Drug Discovery. I want to devote myself trying to solve some of the most challenging problems of medical science by incorporating the knowledge of biology, chemistry, medicine and computer science thus making an impact on this world and leaving it a better place.
 
-Welcome to my website!
-
-
-
-A data-driven personal website
+Research
 ======
+I am currently working on antimicrobial resistance. 
 
-
-Getting started
+Let's Get Connected!
 ======
-
-
-Site-wide configuration
-------
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
